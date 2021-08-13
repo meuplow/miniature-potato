@@ -1,5 +1,5 @@
 /**
- *  Direitos Autorais, 2021, Gabriel Menin.
+ *  Direitos autorais, 2021, Gabriel Menin.
  */
 package com.example.springboot;
 
